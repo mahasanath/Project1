@@ -30,6 +30,10 @@ public class ReverseArray {
 		{
 			System.out.println(c);
 			System.out.println("hello " +  c);
+			System.out.println(c);
+			System.out.println("hello " +  c);
+			System.out.println(c);
+			System.out.println("hello " +  c);
 		}
 	}
 }
