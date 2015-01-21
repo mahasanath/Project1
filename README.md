@@ -32,7 +32,7 @@ The description of the program is as follows:
 
 The purpose of the program is to demonstrate:  
 1.) Authentication to service  
-2.) Creation, running and termination of EC2 instances.  
+2.) Creation and termination of EC2 instances.  
 Authentication to Service is done as told in section III. Once authentication is done, a new instance is created and run using the RunInstancesRequest API Call. Parameters such as
 ImageID, Instance Type, Security-Group and Key Pair are given along with the API Call. Looking at the AWS console will let the user know that an instance has now been created and is currently runnning.  
 <Screenshot of Instance Running Output>  
